@@ -1,2 +1,2 @@
-# data-analytics-in-machining-technology
-Group project @ TU Darmstadt
+# Application of Data Analytics in machining production
+A group project solved with 2 other students.
